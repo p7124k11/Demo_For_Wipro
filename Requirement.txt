@@ -1,8 +1,2 @@
-Flipkart Scenario
-login
-search
-select
-add to cart
-make payment
-confirm order
-logoff
+Iam pratyusha kunche
+from sdet batch-1
